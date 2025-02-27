@@ -1,0 +1,31 @@
+body{
+    background: #242424;
+    color: aliceblue;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    min-height: 100vh;
+    background-image: linear-gradient(to right,#001638,#773000);
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.watch{
+    background-color: rgba(255, 255, 255, 0.336);
+}
+
+.clock{
+    display: flex;
+   justify-content: space-between;
+}
+
+.calender{
+    display: flex;
+    justify-content: space-between;
+}
